@@ -1,4 +1,4 @@
-FlowSol – Milestone-Based Funding Token
+FlowSol - Milestone-Based Funding Token
 
 FlowSol (FLW) is a transparent, open-source ERC-20 smart contract designed for project funding based on predefined milestones.
 Each milestone has its own token allocation and price, allowing structured progress and clear accountability.
@@ -52,7 +52,7 @@ Ownership and Activity
 ⸻
 
 Repository Contents
-	•	Flow.sol – main contract file
+	•	Flow.sol - main contract file
 
 ⸻
 
@@ -67,3 +67,8 @@ Contributing
 
 Contributions, pull requests, and discussions are welcome.
 You may also fork the contract and adapt it to your own milestone-based funding system.
+
+
+
+To the project's page:
+https://yarriva.com/Projects/FlowSol/
